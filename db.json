@@ -1,4 +1,4 @@
-
+[
     {
       "task": "Fix broken links",
       "description": "Go through the website and identify any broken links, updating or removing them as necessary to ensure smooth navigation.",
@@ -215,3 +215,4 @@
       "description": "Write user manuals for the new software, ensuring they are clear, concise, and easy for customers to follow.",
       "completed": true
     }
+]
